@@ -1,1 +1,2 @@
 # dotfile
+- 今はvimrcしかない
