@@ -1,0 +1,6 @@
+alias ga='git add -A'
+alias gc='git commit -m'
+alias gp='git push'
+alias dcu='docker-compose up -d'
+alias dcs='docker-compose stop'
+alias dp='docker ps -a'
