@@ -1,2 +1,4 @@
 # dotfile
-- 今はvimrcしかない
+- bash
+- zsh
+- vim
